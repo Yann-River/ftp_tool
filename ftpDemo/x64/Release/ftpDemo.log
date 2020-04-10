@@ -1,0 +1,63 @@
+﻿  ftpmain.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+f:\c++workplace\ftp_demo\ftpdemo\ftpdemo\ftpmain.cpp(418): warning C4477: “sprintf_s”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“CString”
+f:\c++workplace\ftp_demo\ftpdemo\ftpdemo\ftpmain.cpp(465): warning C4477: “sprintf_s”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“const CString”
+f:\c++workplace\ftp_demo\ftpdemo\ftpdemo\ftpmain.cpp(465): warning C4477: “sprintf_s”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“ULONGLONG”
+  f:\c++workplace\ftp_demo\ftpdemo\ftpdemo\ftpmain.cpp(465): note: 请考虑在格式字符串中使用“%llu”
+  f:\c++workplace\ftp_demo\ftpdemo\ftpdemo\ftpmain.cpp(465): note: 请考虑在格式字符串中使用“%Iu”
+  f:\c++workplace\ftp_demo\ftpdemo\ftpdemo\ftpmain.cpp(465): note: 请考虑在格式字符串中使用“%I64u”
+f:\c++workplace\ftp_demo\ftpdemo\ftpdemo\ftpmain.cpp(465): warning C4477: “sprintf_s”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 4 拥有了类型“CString”
+f:\c++workplace\ftp_demo\ftpdemo\ftpdemo\ftpmain.cpp(477): warning C4477: “sprintf_s”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“const CString”
+f:\c++workplace\ftp_demo\ftpdemo\ftpdemo\ftpmain.cpp(477): warning C4477: “sprintf_s”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“ULONGLONG”
+  f:\c++workplace\ftp_demo\ftpdemo\ftpdemo\ftpmain.cpp(477): note: 请考虑在格式字符串中使用“%llu”
+  f:\c++workplace\ftp_demo\ftpdemo\ftpdemo\ftpmain.cpp(477): note: 请考虑在格式字符串中使用“%Iu”
+  f:\c++workplace\ftp_demo\ftpdemo\ftpdemo\ftpmain.cpp(477): note: 请考虑在格式字符串中使用“%I64u”
+f:\c++workplace\ftp_demo\ftpdemo\ftpdemo\ftpmain.cpp(477): warning C4477: “sprintf_s”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 4 拥有了类型“CString”
+f:\c++workplace\ftp_demo\ftpdemo\ftpdemo\ftpmain.cpp(485): warning C4244: “参数”: 从“ULONGLONG”转换到“const int”，可能丢失数据
+f:\c++workplace\ftp_demo\ftpdemo\ftpdemo\ftpmain.cpp(493): warning C4477: “sprintf_s”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“const CString”
+f:\c++workplace\ftp_demo\ftpdemo\ftpdemo\ftpmain.cpp(493): warning C4477: “sprintf_s”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“ULONGLONG”
+  f:\c++workplace\ftp_demo\ftpdemo\ftpdemo\ftpmain.cpp(493): note: 请考虑在格式字符串中使用“%llu”
+  f:\c++workplace\ftp_demo\ftpdemo\ftpdemo\ftpmain.cpp(493): note: 请考虑在格式字符串中使用“%Iu”
+  f:\c++workplace\ftp_demo\ftpdemo\ftpdemo\ftpmain.cpp(493): note: 请考虑在格式字符串中使用“%I64u”
+f:\c++workplace\ftp_demo\ftpdemo\ftpdemo\ftpmain.cpp(493): warning C4477: “sprintf_s”: 格式字符串“%d”需要类型“int”的参数，但可变参数 5 拥有了类型“__int64”
+  f:\c++workplace\ftp_demo\ftpdemo\ftpdemo\ftpmain.cpp(493): note: 请考虑在格式字符串中使用“%lld”
+  f:\c++workplace\ftp_demo\ftpdemo\ftpdemo\ftpmain.cpp(493): note: 请考虑在格式字符串中使用“%Id”
+  f:\c++workplace\ftp_demo\ftpdemo\ftpdemo\ftpmain.cpp(493): note: 请考虑在格式字符串中使用“%I64d”
+f:\c++workplace\ftp_demo\ftpdemo\ftpdemo\ftpmain.cpp(493): warning C4477: “sprintf_s”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 6 拥有了类型“CString”
+f:\c++workplace\ftp_demo\ftpdemo\ftpdemo\ftpmain.cpp(510): warning C4477: “sprintf_s”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“const CString”
+f:\c++workplace\ftp_demo\ftpdemo\ftpdemo\ftpmain.cpp(510): warning C4477: “sprintf_s”: 格式字符串“%d”需要类型“int”的参数，但可变参数 5 拥有了类型“__int64”
+  f:\c++workplace\ftp_demo\ftpdemo\ftpdemo\ftpmain.cpp(510): note: 请考虑在格式字符串中使用“%lld”
+  f:\c++workplace\ftp_demo\ftpdemo\ftpdemo\ftpmain.cpp(510): note: 请考虑在格式字符串中使用“%Id”
+  f:\c++workplace\ftp_demo\ftpdemo\ftpdemo\ftpmain.cpp(510): note: 请考虑在格式字符串中使用“%I64d”
+f:\c++workplace\ftp_demo\ftpdemo\ftpdemo\ftpmain.cpp(551): warning C4477: “sprintf_s”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“const CString”
+f:\c++workplace\ftp_demo\ftpdemo\ftpdemo\ftpmain.cpp(551): warning C4477: “sprintf_s”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“ULONGLONG”
+  f:\c++workplace\ftp_demo\ftpdemo\ftpdemo\ftpmain.cpp(551): note: 请考虑在格式字符串中使用“%llu”
+  f:\c++workplace\ftp_demo\ftpdemo\ftpdemo\ftpmain.cpp(551): note: 请考虑在格式字符串中使用“%Iu”
+  f:\c++workplace\ftp_demo\ftpdemo\ftpdemo\ftpmain.cpp(551): note: 请考虑在格式字符串中使用“%I64u”
+f:\c++workplace\ftp_demo\ftpdemo\ftpdemo\ftpmain.cpp(551): warning C4477: “sprintf_s”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 4 拥有了类型“CString”
+f:\c++workplace\ftp_demo\ftpdemo\ftpdemo\ftpmain.cpp(575): warning C4477: “sprintf_s”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“const CString”
+f:\c++workplace\ftp_demo\ftpdemo\ftpdemo\ftpmain.cpp(575): warning C4477: “sprintf_s”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“ULONGLONG”
+  f:\c++workplace\ftp_demo\ftpdemo\ftpdemo\ftpmain.cpp(575): note: 请考虑在格式字符串中使用“%llu”
+  f:\c++workplace\ftp_demo\ftpdemo\ftpdemo\ftpmain.cpp(575): note: 请考虑在格式字符串中使用“%Iu”
+  f:\c++workplace\ftp_demo\ftpdemo\ftpdemo\ftpmain.cpp(575): note: 请考虑在格式字符串中使用“%I64u”
+f:\c++workplace\ftp_demo\ftpdemo\ftpdemo\ftpmain.cpp(575): warning C4477: “sprintf_s”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 4 拥有了类型“CString”
+f:\c++workplace\ftp_demo\ftpdemo\ftpdemo\ftpmain.cpp(583): warning C4244: “参数”: 从“ULONGLONG”转换到“const int”，可能丢失数据
+f:\c++workplace\ftp_demo\ftpdemo\ftpdemo\ftpmain.cpp(591): warning C4477: “sprintf_s”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“const CString”
+f:\c++workplace\ftp_demo\ftpdemo\ftpdemo\ftpmain.cpp(591): warning C4477: “sprintf_s”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“ULONGLONG”
+  f:\c++workplace\ftp_demo\ftpdemo\ftpdemo\ftpmain.cpp(591): note: 请考虑在格式字符串中使用“%llu”
+  f:\c++workplace\ftp_demo\ftpdemo\ftpdemo\ftpmain.cpp(591): note: 请考虑在格式字符串中使用“%Iu”
+  f:\c++workplace\ftp_demo\ftpdemo\ftpdemo\ftpmain.cpp(591): note: 请考虑在格式字符串中使用“%I64u”
+f:\c++workplace\ftp_demo\ftpdemo\ftpdemo\ftpmain.cpp(591): warning C4477: “sprintf_s”: 格式字符串“%d”需要类型“int”的参数，但可变参数 5 拥有了类型“__int64”
+  f:\c++workplace\ftp_demo\ftpdemo\ftpdemo\ftpmain.cpp(591): note: 请考虑在格式字符串中使用“%lld”
+  f:\c++workplace\ftp_demo\ftpdemo\ftpdemo\ftpmain.cpp(591): note: 请考虑在格式字符串中使用“%Id”
+  f:\c++workplace\ftp_demo\ftpdemo\ftpdemo\ftpmain.cpp(591): note: 请考虑在格式字符串中使用“%I64d”
+f:\c++workplace\ftp_demo\ftpdemo\ftpdemo\ftpmain.cpp(591): warning C4477: “sprintf_s”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 6 拥有了类型“CString”
+f:\c++workplace\ftp_demo\ftpdemo\ftpdemo\ftpmain.cpp(608): warning C4477: “sprintf_s”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“const CString”
+f:\c++workplace\ftp_demo\ftpdemo\ftpdemo\ftpmain.cpp(608): warning C4477: “sprintf_s”: 格式字符串“%d”需要类型“int”的参数，但可变参数 5 拥有了类型“__int64”
+  f:\c++workplace\ftp_demo\ftpdemo\ftpdemo\ftpmain.cpp(608): note: 请考虑在格式字符串中使用“%lld”
+  f:\c++workplace\ftp_demo\ftpdemo\ftpdemo\ftpmain.cpp(608): note: 请考虑在格式字符串中使用“%Id”
+  f:\c++workplace\ftp_demo\ftpdemo\ftpdemo\ftpmain.cpp(608): note: 请考虑在格式字符串中使用“%I64d”
+  正在生成代码
+  All 482 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  ftpDemo.vcxproj -> F:\C++workplace\ftp_demo\ftpDemo\x64\Release\ftpDemo.exe

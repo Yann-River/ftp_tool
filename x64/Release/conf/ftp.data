@@ -1,0 +1,7 @@
+ftp_ip=10.2.120.54
+ftp_port=21
+ftp_username=Administrator
+ftp_password=Ccrfid2019
+interval=30
+local_dir=G:\\FTPlocal\\in\\
+server_dir=/in
